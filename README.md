@@ -3,7 +3,7 @@
 ![Innopolis University](https://img.shields.io/badge/Innopolis%20University-Student-00cc99?style=for-the-badge)
 
 ### Tech Stack  
-![Python](https://img.shields.io/badge/Python-ffc3e6?logo=python&logoColor=black)  ![Java](https://img.shields.io/badge/Java-ffffba?logo=openjdk&logoColor=black)  ![C++](https://img.shields.io/badge/C++-dabaff?logo=cplusplus&logoColor=black)  ![Docker](https://img.shields.io/badge/Docker-b3ffff?logo=docker&logoColor=black)  ![FastAPI](https://img.shields.io/badge/FastAPI-ffb3ba?logo=fastapi&logoColor=black)  ![Git](https://img.shields.io/badge/Git-ffc3e6?logo=git&logoColor=black)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffba?logo=postgresql&logoColor=black)  ![MongoDB](https://img.shields.io/badge/MongoDB-dabaff?logo=mongodb&logoColor=black)  !  ![VS Code](https://img.shields.io/badge/VS%20Code-dabaff?logo=visualstudiocode&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-ffc3e6?logo=python&logoColor=black)  ![Docker](https://img.shields.io/badge/Docker-b3ffff?logo=docker&logoColor=black)  ![Git](https://img.shields.io/badge/Git-ffc3e6?logo=git&logoColor=black)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffba?logo=postgresql&logoColor=black)  ![MongoDB](https://img.shields.io/badge/MongoDB-dabaff?logo=mongodb&logoColor=black)  ![VS Code](https://img.shields.io/badge/VS%20Code-dabaff?logo=visualstudiocode&logoColor=black)  ![Java](https://img.shields.io/badge/Java-ffffba?logo=openjdk&logoColor=black)  ![C++](https://img.shields.io/badge/C++-dabaff?logo=cplusplus&logoColor=black)  ![FastAPI](https://img.shields.io/badge/FastAPI-ffb3ba?logo=fastapi&logoColor=black) 
 
 
 <!--
